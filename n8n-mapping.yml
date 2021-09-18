@@ -1,0 +1,8 @@
+apiVersion: getambassador.io/v2
+kind: Mapping
+metadata:
+  name: n8n-mapping
+  namespace: n8n
+spec:
+  prefix: /
+  service: n8n-svc:5678
