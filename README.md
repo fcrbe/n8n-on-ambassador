@@ -7,4 +7,4 @@
 - Get the IP of the AES Service (kubectl get svc -n ambassador). Get the External IP.
 - Go to http(s)://<external IP>/
 - You now see the n8n page where the connection seems to be lost continuously:
-[Connection Lost](https://github.com/fcrbe/n8n-on-ambassador/blob/master/2021-09-18_10-01.png)
+[Connection Lost](/2021-09-18_10-01.png?raw=true)
